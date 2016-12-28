@@ -1,5 +1,5 @@
 # Site settings
-title: 读书运动写代码
+title: 孔小雯的博客
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "孔祥雯"  
@@ -20,7 +20,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: hestersy
+github_username: hestersmile
 facebook_username: 
 weibo_username: 
 zhihu_username: 
