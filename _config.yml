@@ -2,16 +2,16 @@
 title: 读书运动写代码
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "祝小斌"  
+description: "孔祥雯"  
 baseurl: ""
-url: "http://ioser.me"
+url: "http://hestersmile.com"
 # url: "https://ioser.me"
 # enforce_ssl: ioser.me
 
 # About/contact
 owner: 
-  name: " 祝小斌"
-  email: mrxiaobin2011@gmail.com
+  name: " 孔祥雯"
+  email: hestersmile@qq.com
   bio: " "
 
 # Data
@@ -20,9 +20,9 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: mrxiaobin
-facebook_username: mrxiaobin2011
-weibo_username: 903048065
+github_username: hestersy
+facebook_username: 
+weibo_username: 
 zhihu_username: 
 
 # Build settings  
@@ -46,16 +46,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "祝小斌"
+      author: "孔祥雯"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : mrxiaobin
+    short_name : 
   disqus :
-      short_name : mrxiaobin
+      short_name : 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
